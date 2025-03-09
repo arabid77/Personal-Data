@@ -1,3 +1,90 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+---------------------BANGLADESH--------------------
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", BTV News 
+http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg",Deepto TV
+http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Jamuna Tv
+http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/8czhR0Yx/Movie-Bangla.jpg",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", GTV
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
+
+#EXTINF:-1 tvg-name="MY TV HD" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="Bangladesh",MY TV HD
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Boishakhi Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Somoy Tv
+http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Ekattor Tv
+http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Channel 24
+http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", News 24 BD
+http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Ekhon Tv
+http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Independent Tv
+http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Anondo Tv
+http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Bijoy Tv
+http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Bangla Vision Tv
+http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Asian Tv
+http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", ATN News 
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo=""", Bangla Tv
+http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+
+----------------------KOLKATA---------------------
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kolkata", Sony Rath SD
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kolkata", Star Jolsha HD
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/378743.ts
+http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/534.ts
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kolkata", Zee Bangla HD
+http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400159620.ts
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kolkata", Color Bangla HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kolkata",Jalsha Movie 
+http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kolkata", Start Jalsha 
+
+
+
+#EXTINF:0 tvg-country="BD" tvg-logo="" group-title="Kolkata", Sony ART
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
