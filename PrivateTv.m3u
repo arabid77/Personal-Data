@@ -5,6 +5,13 @@
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8?hdnts=st%3D1761344341~exp%3D1761365941~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeerajashthannews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8e864b9a-1681-41a0-99a6-387490bc5b24%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.77.193_yuppfast_2_channel_26_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.77.193_yuppfast_2_channel_26_-1~hmac%3D114a8ffbb23ef2a39fa7f48b8ae662ec24a5bbb2f8b68039eb534b184601ec3d
 
+Music 🎶 
+
+#EXTINF:-1 tvg-id="137" tvg-chno="67" tvg-name="balle-balle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png" group-title="Music", Balle Balle
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppftalive.akamaized.net/080823/balleballe/playlist.m3u8?hdnts=st%3D1761344395~exp%3D1761365995~acl%3D%21%2A%2F080823%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.57.77.193_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.57.77.193_yuppfast_2_channel_137_-1~hmac%3Dd363e29c6abf2ffa7b206905d4cf5fe51f04b6574fe6ffa65893401cfba78bcc
 #EXTINF:-1 tvg-id="1" tvg-name="9XM" tvg-logo="" group-title="Music ",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="9X JALWA " tvg-logo="" group-title="Music ",9X JALWA 
