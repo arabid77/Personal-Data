@@ -7,3 +7,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="MASTIII" tvg-logo="" group-title="Music ",MASTIII
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
+Movie 🍿 
+
+#EXTINF:-1 tvg-id="4" tvg-name="Bollywood HD" tvg-logo="" group-title="Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Bollywood Classic " tvg-logo="" group-title="Movies",Bollywood Classic 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
