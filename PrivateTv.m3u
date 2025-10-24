@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="9XM" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Music ",9XM
+#EXTINF:-1 tvg-id="1" tvg-name="9XM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3HM0sG3Nuc17jE3SMA8A4wcfz_tmtxQ4EYHrqVjIWyREGUN-NexQkwE&s=10" group-title="Music ",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="9X JALWA " tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Music ",9X JALWA 
+#EXTINF:-1 tvg-id="2" tvg-name="9X JALWA " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmABKafE2PhUdlcfQ1YOEdbXJyS0DHxhYoL9qKeoTcWlICUpabHA-dIQMg&s=10" group-title="Music ",9X JALWA 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="YRF MUSIC " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhMQdG4oeDNTd4f3QHObyKmLE0IX7jhnfUi2cVbb2z4TzuesCejO6_i88&s=10" group-title="Music ",YRF MUSIC 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
