@@ -1,3 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Valencia CF vs Villarreal CF" tvg-logo="https://fancodebd.vercel.app/_next/image?url=https%3A%2F%2Fwww.fancode.com%2Fskillup-uploads%2Fcms-media%2F130922_5427_VAL_VIL_fc-Web.jpg&w=3840&q=75" group-title="Live",Valencia CF vs Villarreal CF
 https://bd-mc-fdlive.fancode.com/mumbai/130922_english_hls_60268a59f178940adfreeta-di_h264/1080p5.m3u8
+
+Bangali 🇧🇩
+
+#EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="" group-title="Bangali",Ekattor
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="" group-title="Bangali",Independent 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Jamuna" tvg-logo="" group-title="Bangali",Jamuna
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="NTV " tvg-logo="" group-title="Bangali",NTV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="ATN Bangla " tvg-logo="" group-title="Bangali",ATN Bangla 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Somoy " tvg-logo="" group-title="Bangali",Somoy 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Bangla Vision " tvg-logo="" group-title="Bangali",Bangla Vision 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Depto" tvg-logo="" group-title="Bangali",Depto
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="" group-title="Bangali",BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="" group-title="Bangali",Boishakhi
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
