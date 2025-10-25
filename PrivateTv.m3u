@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Australia Vs India " tvg-logo="" group-title="Live",Australia Vs India 
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="Cricket Tv",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
