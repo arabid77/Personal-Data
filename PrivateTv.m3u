@@ -8,7 +8,10 @@ https://bd-mc-fdlive.fancode.com/mumbai/136869_english_hls_c1303f303b44380ta-di_
 #EXTINF:-1 tvg-id="4" tvg-name="Fancode Golf-2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg" group-title="Live",Fancode Golf-2
 https://bd-mc-fdlive.fancode.com/mumbai/137368_english_hls_9fd3b782a765337ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="Cricket Tv",Sky Sports Cricket
+#EXTINF:-1 tvg-id="5" tvg-name="Australia Vs India " tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Live",Australia Vs India 
+https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-143/42qw-pxuw_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Cricket Tv",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
 https://bit.player0003.com:8099/hls/skyscric3.m3u8?md6=oKA16WI0vD6H8OlpILYdrQ&expires=1761348211
@@ -18,6 +21,8 @@ https://bit.player0003.com:8099/hls/skyscric3.m3u8?md6=oKA16WI0vD6H8OlpILYdrQ&ex
 #EXTVLCOPT:http-origin=https://dostplay.pro
 https://bit.player0003.com:8099/hls/t_sportsbd.m3u8?md6=wD3AV37XpldgDAa9LYcxww&expires=1761348217
 
+#EXTINF:-1 tvg-id="5" tvg-name="Australia Vs India " tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Live",Australia Vs India 
+https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-143/42qw-pxuw_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="Cricket Tv",Willow
 #EXTVLCOPT:http-referrer=https://dostplay.pro/
 #EXTVLCOPT:http-origin=https://dostplay.pro
