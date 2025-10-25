@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Australia Vs India " tvg-logo="" group-title="Live",Australia Vs India 
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Day 2 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
-https://bd-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137015_CASACARDS_APP.png" group-title="Fancode-Football", Cerezo Osaka vs Kawasaki Frontale (J League 2025)
+#EXTINF:-1 tvg-id="1" tvg-name="Fancode Football " tvg-logo="" group-title="Live",Fancode Football 
 https://bd-mc-fdlive.fancode.com/mumbai/137015_english_hls_ef048bd71c32665ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg" group-title="Fancode-Golf", Day 3 vs Jack Nicklaus Golf Club (Genesis Championship)
+#EXTINF:-1 tvg-id="2" tvg-name="Fancode MGP" tvg-logo="" group-title="Live",Fancode MGP
+https://bd-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Fancode Golf-1" tvg-logo="" group-title="Live",Fancode Golf-1
 https://bd-mc-fdlive.fancode.com/mumbai/136869_english_hls_c1303f303b44380ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg" group-title="Fancode-Golf", Day 2 vs Sunrise Golf and Country Club (Wistron Ladies Open)
+#EXTINF:-1 tvg-id="4" tvg-name="Fancode Golf-2" tvg-logo="" group-title="Live",Fancode Golf-2
 https://bd-mc-fdlive.fancode.com/mumbai/137368_english_hls_9fd3b782a765337ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png" group-title="Cricket Tv",Sky Sports Cricket
