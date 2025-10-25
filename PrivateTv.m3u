@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Bachelor Point Session 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI6GLXrT04pjD3ofT86EdXw3qNt8xFxUlYUMEEEdLu6TFvy4_ThZAabuA&s=10" group-title="Series",Bachelor Point Session 5
-#EXTVLCOPT:http-referrer=https://bcdnw.hakunaymatata.com/
-#EXTVLCOPT:http-origin=https://fzmovies.cms
-https://bcdnw.hakunaymatata.com/resource/2b436e7445efb4d72116c80f709b958d.mp4?sign=4b631c1321c349e14b0700e1428adb76&t=1761421086
-
 #EXTINF:-1 tvg-id="1" tvg-name="Fancode Football " tvg-logo="https://images.fancode.com/aig/match/v1/137015_CASACARDS_APP.png" group-title="Live",Fancode Football 
 https://bd-mc-fdlive.fancode.com/mumbai/137015_english_hls_ef048bd71c32665ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Fancode MGP" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Live",Fancode MGP
