@@ -9,6 +9,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 #EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="" group-title="Bangali",Independent 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Jamuna" tvg-logo="" group-title="Bangali",Jamuna
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="NTV " tvg-logo="" group-title="Bangali",NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
@@ -17,6 +18,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 #EXTINF:-1 tvg-id="6" tvg-name="Somoy " tvg-logo="" group-title="Bangali",Somoy 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Bangla Vision " tvg-logo="" group-title="Bangali",Bangla Vision 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Depto" tvg-logo="" group-title="Bangali",Depto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -26,6 +28,12 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Bangali",Sun Bangla 
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="My Tv Hd" tvg-logo="" group-title="Bangali",My Tv Hd
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="" group-title="Bangali",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="" group-title="Bangali",Channel I 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 Sports 🏅
 
