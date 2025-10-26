@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Woman World Cup 2025" tvg-logo="" group-title="Live",Woman World Cup 2025
 https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd?|drmScheme=clearkey&drmLicense=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
-#EXTINF:-1 tvg-id="1" tvg-name="Valencia CF vs Villarreal CF" tvg-logo="https://fancodebd.vercel.app/_next/image?url=https%3A%2F%2Fwww.fancode.com%2Fskillup-uploads%2Fcms-media%2F130922_5427_VAL_VIL_fc-Web.jpg&w=3840&q=75" group-title="Live",Valencia CF vs Villarreal CF
-https://bd-mc-fdlive.fancode.com/mumbai/130922_english_hls_60268a59f178940adfreeta-di_h264/1080p5.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="USA vs Nepal" tvg-logo="https://fancodebd.vercel.app/_next/image?url=https%3A%2F%2Fimages.fancode.com%2Faig%2Fmatch%2Fv1%2F137251_CASACARDS_APP.png&w=3840&q=75" group-title="Live",USA vs Nepal
+https://bd-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8
 
 Bangali 🇧🇩
 
