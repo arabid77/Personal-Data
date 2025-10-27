@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Bangladesh vs West Indies" tvg-logo="" group-title="Live",Bangladesh vs West Indies
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1761571008&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ac42b017e9b49ec00725a4687a491b60
 #EXTINF:-1 tvg-id="1" tvg-name="Woman World Cup 2025" tvg-logo="" group-title="Live",Woman World Cup 2025
 https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd?|drmScheme=clearkey&drmLicense=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
 #EXTINF:-1 tvg-id="2" tvg-name="USA vs Nepal" tvg-logo="https://fancodebd.vercel.app/_next/image?url=https%3A%2F%2Fimages.fancode.com%2Faig%2Fmatch%2Fv1%2F137251_CASACARDS_APP.png&w=3840&q=75" group-title="Live",USA vs Nepal
