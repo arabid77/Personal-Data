@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Bangladesh vs West Indies" tvg-logo="" group-title="Live",Bangladesh vs West Indies
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1761571008&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ac42b017e9b49ec00725a4687a491b60
+EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" group-title="Channels",T Sports HD 
+https://bongoflixbd.top/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2
 #EXTINF:-1 tvg-id="1" tvg-name="West Indies tour of Bangladesh, 2025" tvg-logo="https://fancodebd.vercel.app/_next/image?url=https%3A%2F%2Fwww.fancode.com%2Fskillup-uploads%2Fcms-media%2FBangladesh-vs-West-Indies-T20I_old-(1).jpg&w=3840&q=75" group-title="Live",West Indies tour of Bangladesh, 2025
 https://bd-mc-fdlive.fancode.com/mumbai/137703_english_hls_522cde4f9877496ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Woman World Cup 2025" tvg-logo="" group-title="Live",Woman World Cup 2025
