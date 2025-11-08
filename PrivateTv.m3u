@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
-http://stvlive.net:8080/sonyten5/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
-http://stvlive.net:8080/starselect1/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
-http://stvlive.net:8080/tsports1/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="West Indies tour of Bangladesh, 2025" tvg-logo="https://fancodebd.vercel.app/_next/image?url=https%3A%2F%2Fwww.fancode.com%2Fskillup-uploads%2Fcms-media%2FBangladesh-vs-West-Indies-T20I_old-(1).jpg&w=3840&q=75" group-title="Live",West Indies tour of Bangladesh, 2025
-https://bd-mc-fdlive.fancode.com/mumbai/137703_english_hls_522cde4f9877496ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Woman World Cup 2025" tvg-logo="" group-title="Live",Woman World Cup 2025
-https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd?|drmScheme=clearkey&drmLicense=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
-#EXTINF:-1 tvg-id="2" tvg-name="USA vs Nepal" tvg-logo="https://fancodebd.vercel.app/_next/image?url=https%3A%2F%2Fimages.fancode.com%2Faig%2Fmatch%2Fv1%2F137251_CASACARDS_APP.png&w=3840&q=75" group-title="Live",USA vs Nepal
-https://bd-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8
 
 Bangali 🇧🇩
 
