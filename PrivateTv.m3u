@@ -64,3 +64,11 @@ http://87.255.35.150:18863/
 http://87.255.35.150:18844/
 #EXTINF:-1 tvg-id="3" tvg-name="Sony Sports 3HD Hindi " tvg-logo="" group-title="Sports ",Sony Sports 3HD Hindi 
 http://87.255.35.150:18848/
+#EXTINF:-1 tvg-id="9" tvg-name="FOX RACING " tvg-logo="" group-title="Sports ",FOX RACING 
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19144/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="FOX SPORTS HD" tvg-logo="" group-title="Sports ",FOX SPORTS HD
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19141/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="ESPN" tvg-logo="" group-title="Sports ",ESPN
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19156/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="ESPN 2" tvg-logo="" group-title="Sports ",ESPN 2
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19155/index.m3u8
