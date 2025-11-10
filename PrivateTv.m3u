@@ -44,6 +44,11 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="ZEE BANGLA HD" tvg-logo="" group-title="Bangali",ZEE BANGLA HD
 http://103.175.242.10:8080/zeebangla/index.m3u8
 
+ISLAMIC 🕌
+
+#EXTINF:-1 tvg-id="4" tvg-name="Peace tv Bangla" tvg-logo="" group-title="Islamic ",Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
 HINDI 🇮🇳
 
 #EXTINF:-1 tvg-id="5" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Hindi ",STAR PLUS HD
