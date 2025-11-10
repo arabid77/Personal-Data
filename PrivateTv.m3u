@@ -5,6 +5,8 @@ https://bd-mc-fdlive.fancode.com/mumbai/137821_english_hls_d20d94d3276476_1ta-di
 
 Bangali 🇧🇩
 
+#EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="" group-title="Bangali",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="" group-title="Bangali",Ekattor
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="" group-title="Bangali",Independent 
@@ -23,8 +25,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="Depto" tvg-logo="" group-title="Bangali",Depto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="" group-title="Bangali",BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="" group-title="Bangali",Boishakhi
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="My Tv Hd" tvg-logo="" group-title="Bangali",My Tv Hd
