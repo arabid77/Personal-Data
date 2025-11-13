@@ -4,6 +4,12 @@
 https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011421704_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="France Vs Ukraine" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762350035335408_EQFs_MD9_France_vs_Ukraine_3nov_landscape_thumb.jpg" group-title="Live",France Vs Ukraine
 https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1763126368~acl=%2f*~data=hdntl~hmac=2eb02c0443b0b57d18548886850461341bbaa109ebeb0ba955c16d42225ddc5b/level_0.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Ireland vs Portugal" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762351882019408_EQFs_MD9_Ireland_vs_Portugal_3nov_landscape_thumb.jpg" group-title="Live",Ireland vs Portugal
+https://nettv.fun/sonyevent/live.php?id=ddb5d3&format=.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="England vs Serbia" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762349902511408_EQFs_MD9_England_vs_Serbia_3nov_landscape_thumb.jpg" group-title="Live",England vs Serbia
+https://nettv.fun/sonyevent/live.php?id=70c7f4&format=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Moldova vs Italy" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762350158080408_EQFs_MD9_Moldova_vs_Italy_3nov_landscape_thumb.jpg" group-title="Live",Moldova vs Italy
+https://nettv.fun/sonyevent/live.php?id=b82d83&format=.m3u8
 
 Bangali 🇧🇩
 
