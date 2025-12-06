@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Live",T Sports BD
+http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=4c762bb3f3456c159c49d606faeb2f084aeaade7-cb5887870ed6527bac9c56d85da0a0d7-1765028420-1765017620
 #EXTINF:-1 tvg-id="1" tvg-name="India Vs South Africa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBXvg-H0Tk82plqZwVmcEjMsNXtUV98iDhZrEBWGZLt8E644XNq_g5gU&s=10" group-title="Live",India Vs South Africa
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 
