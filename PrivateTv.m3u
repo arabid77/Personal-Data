@@ -1,24 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Kantaraa legend chapter -1" tvg-logo="http://10.16.100.244/files/kantara_a_legend__chapter_1.jpg" group-title="Movies",Kantaraa legend chapter -1
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kantara-A%20Legend%20-%20Chapter%201%20%282025%29%201080p%20%5BDual%20Audio%5D/Kantara%20Chapter%201%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BKannada%205.1%5D%20-HDHub.mkv
-
 #EXTINF:-1 tvg-id="1" tvg-name="India Vs South Africa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBXvg-H0Tk82plqZwVmcEjMsNXtUV98iDhZrEBWGZLt8E644XNq_g5gU&s=10" group-title="Live",India Vs South Africa
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-#EXTINF:-1 tvg-id="1" tvg-name="Bangladesh vs Ireland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg" group-title="Live",Bangladesh vs Ireland
-https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011421704_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="France Vs Ukraine" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762350035335408_EQFs_MD9_France_vs_Ukraine_3nov_landscape_thumb.jpg" group-title="Live",France Vs Ukraine
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763106849~acl=/*~id=67676025557923579750214688431600~hmac=b927e98389327400cc28948014728be9d8a5f516606a6d3cdefa30308fdfebc6
-https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1763126368~acl=%2f*~data=hdntl~hmac=2eb02c0443b0b57d18548886850461341bbaa109ebeb0ba955c16d42225ddc5b/level_0.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Ireland vs Portugal" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762351882019408_EQFs_MD9_Ireland_vs_Portugal_3nov_landscape_thumb.jpg" group-title="Live",Ireland vs Portugal
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763106849~acl=/*~id=67676025557923579750214688431600~hmac=b927e98389327400cc28948014728be9d8a5f516606a6d3cdefa30308fdfebc6
-https://nettv.fun/sonyevent/live.php?id=ddb5d3&format=.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="England vs Serbia" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762349902511408_EQFs_MD9_England_vs_Serbia_3nov_landscape_thumb.jpg" group-title="Live",England vs Serbia
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763106849~acl=/*~id=67676025557923579750214688431600~hmac=b927e98389327400cc28948014728be9d8a5f516606a6d3cdefa30308fdfebc6
-https://nettv.fun/sonyevent/live.php?id=70c7f4&format=.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Moldova vs Italy" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762350158080408_EQFs_MD9_Moldova_vs_Italy_3nov_landscape_thumb.jpg" group-title="Live",Moldova vs Italy
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763106849~acl=/*~id=67676025557923579750214688431600~hmac=b927e98389327400cc28948014728be9d8a5f516606a6d3cdefa30308fdfebc6
-https://nettv.fun/sonyevent/live.php?id=b82d83&format=.m3u8
 
 Bangali 🇧🇩
 
