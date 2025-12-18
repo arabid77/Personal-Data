@@ -96,7 +96,11 @@ https://mrzplayin.fun/roarzon/stream.php?id=3eef0c9777e4ffc85045bb13ffbf12fb&e=.
 
 Sports 🏅
 
-#EXTINF:-1 tvg-id="f064e069-8861-43d5-ac79-828b029a50a1" tvg-name="Star Sports 1 HD" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1 HD" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
 https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1766100031&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5a5dd7b9545c243879a5b887a7a763b9
-#EXTINF:-1 tvg-id="3ac46078-2bf0-4998-a021-37b459e09fba" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="Sports",STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="2" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="Sports",STAR SPORTS 2 HD
 https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1766100031&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=b7f3e439e79e5867a0de60484f5fc298
+#EXTINF:-1 tvg-id="3" tvg-name="Star Sports Select 1" tvg-logo="https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f" group-title="Sports",Star Sports Select 1
+https://tvsen6.aynascope.net/spsel1/index.m3u8?e=1766100029&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=c8a923a5852a5a3db46d2123d04f9be4
+#EXTINF:-1 tvg-id="4" tvg-name="Star Sports Select 2 HD" tvg-logo="https://s3.aynaott.com/storage/16ee3a1243424dfe8f4341a90afbd46e" group-title="Sports",Star Sports Select 2 HD
+https://tvsen7.aynascope.net/ssps2hd/index.m3u8?e=1766100030&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=958611e7846835ab6d2a4533c49e762f
