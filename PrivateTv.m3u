@@ -9,6 +9,8 @@ http://172.19.178.29:18190/CD-E02-01/index.fmp4.m3u8?token=00a3e5839ab5aa48b50ee
 
 Bangali 🇧🇩
 
+#EXTINF:-1 tvg-id="3" tvg-name="Movie Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/86.png" group-title="Bangali",Movie Bangla 
+https://mrzplayin.fun/roarzon/stream.php?id=ca85646836937816ce7f24138fd40fad&e=.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="" group-title="Bangali",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
 #EXTINF:-1 tvg-id="3" tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangali",DBC
