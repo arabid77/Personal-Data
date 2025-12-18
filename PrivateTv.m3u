@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Live",T Sports BD
+#EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="" group-title="Live",T Sports BD
 http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=dfcd6f1d66c1356c8957655c139f87f66c6c7636-861bc94e50c0dd2f84bdd8a0f9cdbd43-1766083049-1766072249
+#EXTINF:-1 tvg-id="2" tvg-name="PTV SPORTS " tvg-logo="" group-title="Live",PTV SPORTS 
+http://172.19.178.29:18190/CD-E02-01/index.fmp4.m3u8?token=00a3e5839ab5aa48b50eed0571f0b28bec1cb4fc-54ccfe214e20d16f4adc7452e5a81786-1766083416-1766072616
 
 Bangali 🇧🇩
 
