@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Burgos vs Getafe CF" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138907_5806_BUR_GEF_FC-Web.jpg" group-title="Live",Burgos vs Getafe CF
-https://bd-mc-fdlive.fancode.com/mumbai/138907_english_hls_e022dbbfb752615_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="West Indies Tour of New Zealand 2025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546480148346_NZvsWI25_3rd_test_day_2_12dec_landscape_thumb.jpg" group-title="Live",West Indies Tour of New Zealand 2025
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766137847~acl=/*~id=05604555649119027150943358078120~hmac=4c3f4431ce89dc3de4849d9cc4ae2604eac65798b75500502e90bfd57d498858
+
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Live",T Sports BD
 https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766100004&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=cdd3a16469f71ccbf4a50a50f61ded8d
 #EXTINF:-1 tvg-id="2" tvg-name="PTV SPORTS " tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Live",PTV SPORTS 
