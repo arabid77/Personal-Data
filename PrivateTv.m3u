@@ -1,14 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Kantaraa legend chapter -1" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Movies",Kantaraa legend chapter -1
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kantara-A%20Legend%20-%20Chapter%201%20%282025%29%201080p%20%5BDual%20Audio%5D/Kantara%20Chapter%201%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BKannada%205.1%5D%20-HDHub.mkv
-http://www.takdhum.net:8096/videos/44d7df1b-3a5c-2087-5fd2-819ccf9fd9a7/master.m3u8?DeviceId=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE1OyBSTVgzNjg2IEJ1aWxkL0FQM0EuMjQwNjE3LjAwOCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzE0Mi4wLjc0NDQuMTcxIE1vYmlsZSBTYWZhcmkvNTM3LjM2fDE3NjUwNDA1MDkyNjA1&MediaSourceId=44d7df1b3a5c20875fd2819ccf9fd9a7&VideoCodec=h264&AudioCodec=aac&AudioStreamIndex=1&VideoBitrate=88037052&AudioBitrate=384000&AudioSampleRate=48000&MaxFramerate=24&PlaySessionId=5482543b3857404c8db6170d75d2d18d&api_key=bb637cfb370a4cf28a81ee57f3367be5&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&RequireAvc=false&Tag=efc945bbdad05e0e1be6f16fa320ce71&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&hevc-level=120&hevc-videobitdepth=10&hevc-profile=main10&hevc-audiochannels=6&aac-profile=he-aac&TranscodeReasons=VideoCodecNotSupported,%20AudioCodecNotSupported#t=982.896842
-https://play.roarzone.info/emby/videos/1007336/master.m3u8?DeviceId=e9fee38e-1fde-4d05-b707-28c4c19fd95e&MediaSourceId=mediasource_1007336&PlaySessionId=98751103765e429194eb8454925ea6b9&api_key=41635a3d05304bd9b606598d81116d67&VideoCodec=hevc,h264,av1&AudioCodec=mp3,aac&VideoBitrate=871991&AudioBitrate=128010&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&hevc-codectag=hvc1,hev1,hevc,hdmv&TranscodeReasons=ContainerBitrateExceedsLimit
-
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Live",T Sports BD
-http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=4c762bb3f3456c159c49d606faeb2f084aeaade7-cb5887870ed6527bac9c56d85da0a0d7-1765028420-1765017620
-#EXTINF:-1 tvg-id="1" tvg-name="India Vs South Africa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBXvg-H0Tk82plqZwVmcEjMsNXtUV98iDhZrEBWGZLt8E644XNq_g5gU&s=10" group-title="Live",India Vs South Africa
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=dfcd6f1d66c1356c8957655c139f87f66c6c7636-861bc94e50c0dd2f84bdd8a0f9cdbd43-1766083049-1766072249
 
 Bangali 🇧🇩
 
