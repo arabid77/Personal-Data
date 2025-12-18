@@ -59,8 +59,10 @@ http://87.255.35.150:18238
 #EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Bangali",Sun Bangla 
 http://172.19.178.59:18190/sun_bangla_hd/index.fmp4.m3u8?token=da8581ba06322ce6bcbf4ec9497e6015c5deca6c-8b04c510eb5e56f2e0212a762577e86e-1766084357-1766073557
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="ZEE BANGLA HD" tvg-logo="" group-title="Bangali",ZEE BANGLA HD
-http://103.175.242.10:8080/zeebangla/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="ZEE BANGLA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/34.png" group-title="Bangali",ZEE BANGLA HD
+https://mrzplayin.fun/roarzon/stream.php?id=ae9d85390de4bbb2e18ace32a5960bbd&e=.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Zee Bangla Cinema " tvg-logo="https://nettv.fun/playlist/bdix/logo/29.png" group-title="Bangali",Zee Bangla Cinema 
+https://mrzplayin.fun/roarzon/stream.php?id=8b541bd4fc7c64847daec90951d71307&e=.m3u8
 
 ISLAMIC 🕌
 
