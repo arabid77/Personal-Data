@@ -44,10 +44,13 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="COLOR BANGLA HD " tvg-logo="" group-title="Bangali",COLOR BANGLA HD 
 http://87.255.35.150:18236
 #EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="" group-title="Bangali",STAR JOLSHA HD
+http://172.19.178.59:18190/star_jalsha_hd/index.fmp4.m3u8?token=993c1f2c52f868539cf1cfed8cf3f3dce13967ce-64075de05d2f570d48653603fe5c4f25-1766084180-1766073380
 https://aynaott.unosottor.workers.dev/bpk-tv/sjhdbd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Zee BANGLA HD " tvg-logo="" group-title="Bangali",Zee BANGLA HD 
+http://172.19.178.59:18190/zee_bangla_hd/index.fmp4.m3u8?token=6e331820cc3630c0e59ab9b2e9af5a6e48608bb7-b73868a25774975167fb156342abc9f6-1766084281-1766073481
 http://87.255.35.150:18238
 #EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Bangali",Sun Bangla 
+http://172.19.178.59:18190/sun_bangla_hd/index.fmp4.m3u8?token=da8581ba06322ce6bcbf4ec9497e6015c5deca6c-8b04c510eb5e56f2e0212a762577e86e-1766084357-1766073557
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="ZEE BANGLA HD" tvg-logo="" group-title="Bangali",ZEE BANGLA HD
 http://103.175.242.10:8080/zeebangla/index.m3u8
