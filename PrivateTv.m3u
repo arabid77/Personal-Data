@@ -13,6 +13,8 @@ Bangali 🇧🇩
 https://mrzplayin.fun/roarzon/stream.php?id=ca85646836937816ce7f24138fd40fad&e=.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="https://nettv.fun/playlist/bdix/logo/53.png" group-title="Bangali",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
+#EXTINF:-1 tvg-id="4" tvg-name="Rtv" tvg-logo="https://nettv.fun/playlist/bdix/logo/14.png" group-title="Bangali",Rtv
+https://mrzplayin.fun/roarzon/stream.php?id=9fe7c84b8253e88099d47237e0b7367c&e=.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangali",DBC
 https://mrzplayin.fun/roarzon/stream.php?id=55066b147ab7004c97d8b380c7e8acd1&e=.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="https://nettv.fun/playlist/bdix/logo/11.png" group-title="Bangali",Ekattor
@@ -74,9 +76,9 @@ http://87.255.35.150:18850/
 #EXTINF:-1 tvg-id="1" tvg-name="& Picture " tvg-logo="https://nettv.fun/playlist/bdix/logo/100.png" group-title="Hindi ",& Picture 
 https://mrzplayin.fun/roarzon/stream.php?id=f1e2d264440ebae7d1f98c8987084dc6&e=.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="" group-title="Hindi ",SONY MAX HD
-http://87.255.35.150:18851/
-#EXTINF:-1 tvg-id="19" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="Hindi ",ZEE CINEMA HD
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+https://mrzplayin.fun/roarzon/stream.php?id=893cae26e4f3583b49d7eb86e0c27d19&e=.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="ZEE CINEMA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/76.png" group-title="Hindi ",ZEE CINEMA HD
+https://mrzplayin.fun/roarzon/stream.php?id=1d827bbbe8ce50d2dec15dd0a51111b6&e=.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="STAR GOLD HD" tvg-logo="" group-title="Hindi ",STAR GOLD HD
 http://87.255.35.150:18859
 
