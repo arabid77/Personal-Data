@@ -11,11 +11,9 @@ Bangali 🇧🇩
 
 #EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="" group-title="Bangali",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
-#EXTINF:-1 tvg-id="2" tvg-name="Ekhon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangali",Ekhon
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangali",DBC
 https://mrzplayin.fun/roarzon/stream.php?id=55066b147ab7004c97d8b380c7e8acd1&e=.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="" group-title="Bangali",Ekattor
+#EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="https://nettv.fun/playlist/bdix/logo/11.png" group-title="Bangali",Ekattor
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="" group-title="Bangali",Independent 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
@@ -37,7 +35,7 @@ https://mrzplayin.fun/roarzon/stream.php?id=f9eb709bbbe1e58c30ff208b705853e9&e=.
 #EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="" group-title="Bangali",Boishakhi
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="My Tv Hd" tvg-logo="" group-title="Bangali",My Tv Hd
-https://mytvbangla.com/0.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="" group-title="Bangali",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="" group-title="Bangali",Channel I 
