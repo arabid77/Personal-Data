@@ -11,25 +11,25 @@ Bangali 🇧🇩
 
 #EXTINF:-1 tvg-id="3" tvg-name="Movie Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/86.png" group-title="Bangali",Movie Bangla 
 https://mrzplayin.fun/roarzon/stream.php?id=ca85646836937816ce7f24138fd40fad&e=.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="" group-title="Bangali",BTV
+#EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="https://nettv.fun/playlist/bdix/logo/53.png" group-title="Bangali",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
 #EXTINF:-1 tvg-id="3" tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangali",DBC
 https://mrzplayin.fun/roarzon/stream.php?id=55066b147ab7004c97d8b380c7e8acd1&e=.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="https://nettv.fun/playlist/bdix/logo/11.png" group-title="Bangali",Ekattor
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="" group-title="Bangali",Independent 
+#EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="https://nettv.fun/playlist/bdix/logo/12.png" group-title="Bangali",Independent 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Jamuna" tvg-logo="" group-title="Bangali",Jamuna
+#EXTINF:-1 tvg-id="3" tvg-name="Jamuna" tvg-logo="https://nettv.fun/playlist/bdix/logo/13.png" group-title="Bangali",Jamuna
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="NTV " tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangali",NTV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="ATN Bangla " tvg-logo="" group-title="Bangali",ATN Bangla 
+#EXTINF:-1 tvg-id="5" tvg-name="ATN Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/2.png" group-title="Bangali",ATN Bangla 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Somoy " tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="Bangali",Somoy 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Bangla Vision " tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="Bangali",Bangla Vision 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Depto" tvg-logo="" group-title="Bangali",Depto
+#EXTINF:-1 tvg-id="8" tvg-name="Depto" tvg-logo="https://nettv.fun/playlist/bdix/logo/8.png" group-title="Bangali",Depto
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Maasranga" tvg-logo="https://nettv.fun/playlist/bdix/logo/51.png" group-title="Bangali",Maasranga
@@ -38,9 +38,9 @@ https://mrzplayin.fun/roarzon/stream.php?id=f9eb709bbbe1e58c30ff208b705853e9&e=.
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="My Tv Hd" tvg-logo="" group-title="Bangali",My Tv Hd
 
-#EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="" group-title="Bangali",Channel 24
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="https://nettv.fun/playlist/bdix/logo/5.png" group-title="Bangali",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="" group-title="Bangali",Channel I 
+#EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="https://nettv.fun/playlist/bdix/logo/6.png" group-title="Bangali",Channel I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="SRK TV " tvg-logo="" group-title="Bangali",SRK TV 
