@@ -37,8 +37,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Maasranga" tvg-logo="https://nettv.fun/playlist/bdix/logo/51.png" group-title="Bangali",Maasranga
 https://mrzplayin.fun/roarzon/stream.php?id=f9eb709bbbe1e58c30ff208b705853e9&e=.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="" group-title="Bangali",Boishakhi
-
+#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="http://tvassets.roarzone.info/images/61.png" group-title="Bangali",Boishakhi
+http://103.166.152.22:8080/roarzone/bk/61/index.m3u8?token=7b1404923d0101de3c08d8b2ae91ac5739e379dc-4e26a7a67ab6efe4cc4be1f1ba02e971-1766105413-1766094613
 #EXTINF:-1 tvg-id="1" tvg-name="My Tv Hd" tvg-logo="" group-title="Bangali",My Tv Hd
 
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="https://nettv.fun/playlist/bdix/logo/5.png" group-title="Bangali",Channel 24
