@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="1" tvg-name="Burgos vs Getafe CF" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138907_5806_BUR_GEF_FC-Web.jpg" group-title="Live",Burgos vs Getafe CF
 https://bd-mc-fdlive.fancode.com/mumbai/138907_english_hls_e022dbbfb752615_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="" group-title="Live",T Sports BD
-http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=dfcd6f1d66c1356c8957655c139f87f66c6c7636-861bc94e50c0dd2f84bdd8a0f9cdbd43-1766083049-1766072249
+#EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Live",T Sports BD
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766100004&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=cdd3a16469f71ccbf4a50a50f61ded8d
 #EXTINF:-1 tvg-id="2" tvg-name="PTV SPORTS " tvg-logo="" group-title="Live",PTV SPORTS 
 http://172.19.178.29:18190/CD-E02-01/index.fmp4.m3u8?token=00a3e5839ab5aa48b50eed0571f0b28bec1cb4fc-54ccfe214e20d16f4adc7452e5a81786-1766083416-1766072616
 
