@@ -90,6 +90,12 @@ https://mrzplayin.fun/roarzon/stream.php?id=3521b91f5a0e776f527c8634d72d2926&e=.
 http://87.255.35.150:18810
 #EXTINF:-1 tvg-id="5" tvg-name="STAR PLUS HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/67.png" group-title="Hindi ",STAR PLUS HD
 https://mrzplayin.fun/roarzon/stream.php?id=08b34060f7de766fc7706d14dc6deef5&e=.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Hum Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/humtv.png" group-title="Hindi ",Hum Tv
+https://mrzplayin.fun/roarzon/stream.php?id=48d674db3aab64240dfc425c1a10d050&e=.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Hum Masala " tvg-logo="https://nettv.fun/playlist/bdix/logo/hummasala.png" group-title="Hindi ",Hum Masala 
+https://mrzplayin.fun/roarzon/stream.php?id=497f57d36dba1a8e42f821084df702b2&e=.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Hum Sitarey" tvg-logo="https://nettv.fun/playlist/bdix/logo/humsitarey.png" group-title="Hindi ",Hum Sitarey
+https://mrzplayin.fun/roarzon/stream.php?id=93be990711d9f8977ebe75ae13820dbb&e=.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="& Picture " tvg-logo="https://nettv.fun/playlist/bdix/logo/100.png" group-title="Hindi ",& Picture 
 https://mrzplayin.fun/roarzon/stream.php?id=f1e2d264440ebae7d1f98c8987084dc6&e=.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymaxhd.png" group-title="Hindi ",SONY MAX HD
