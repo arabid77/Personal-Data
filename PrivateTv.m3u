@@ -94,6 +94,10 @@ https://mrzplayin.fun/roarzon/stream.php?id=08b34060f7de766fc7706d14dc6deef5&e=.
 https://mrzplayin.fun/roarzon/stream.php?id=f1e2d264440ebae7d1f98c8987084dc6&e=.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="" group-title="Hindi ",SONY MAX HD
 https://mrzplayin.fun/roarzon/stream.php?id=893cae26e4f3583b49d7eb86e0c27d19&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Sony Max" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax.png" group-title="Hindi ",Sony Max
+https://mrzplayin.fun/roarzon/stream.php?id=a004143fee5afd56fa42358de7e00170&e=.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Sony Max 2" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax2.png" group-title="Hindi ",Sony Max 2
+https://mrzplayin.fun/roarzon/stream.php?id=a99e6ccb22708a383e350b62edb941c4&e=.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="ZEE CINEMA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/76.png" group-title="Hindi ",ZEE CINEMA HD
 https://mrzplayin.fun/roarzon/stream.php?id=1d827bbbe8ce50d2dec15dd0a51111b6&e=.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="STAR GOLD HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/75.png" group-title="Hindi ",STAR GOLD HD
