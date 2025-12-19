@@ -16,6 +16,12 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 https://mrzplayin.fun/roarzon/stream.php?id=ca85646836937816ce7f24138fd40fad&e=.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Ananda Tv" tvg-logo="" group-title="Bangali",Ananda Tv
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Bangla Tv" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Bangali",Bangla Tv
+https://bozztv.com/rongo/rongo-BanglaTV/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Ekushey Tv" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Bangali",Ekushey Tv
+https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="SATV" tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="Bangali",SATV
+https://bozztv.com/rongo/rongo-SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="https://nettv.fun/playlist/bdix/logo/53.png" group-title="Bangali",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
 #EXTINF:-1 tvg-id="4" tvg-name="Rtv" tvg-logo="https://nettv.fun/playlist/bdix/logo/14.png" group-title="Bangali",Rtv
