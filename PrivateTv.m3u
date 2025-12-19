@@ -14,6 +14,8 @@ Bangali 🇧🇩
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Movie Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/86.png" group-title="Bangali",Movie Bangla 
 https://mrzplayin.fun/roarzon/stream.php?id=ca85646836937816ce7f24138fd40fad&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Ananda Tv" tvg-logo="" group-title="Bangali",Ananda Tv
+https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="https://nettv.fun/playlist/bdix/logo/53.png" group-title="Bangali",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
 #EXTINF:-1 tvg-id="4" tvg-name="Rtv" tvg-logo="https://nettv.fun/playlist/bdix/logo/14.png" group-title="Bangali",Rtv
