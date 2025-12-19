@@ -10,6 +10,8 @@ https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1766100007&u=ef3dd85c-c300-4
 
 Bangali 🇧🇩
 
+#EXTINF:-1 tvg-id="1" tvg-name="Testing " tvg-logo="https://i.ibb.co.com/Mg8KPrc/logo-freeiptv25.png" group-title="H2SO4",Testing 
+https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lhhh79pu6o/out/v1/1ca020d8a588424bade274c87424b951/cenc.mpd
 #EXTINF:-1 tvg-id="1" tvg-name="গোপাল ভাঁড় " tvg-logo="https://d1or4efq32i6bx.cloudfront.net/licensing/media_content/2_336.png" group-title="Bangali",গোপাল ভাঁড় 
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Movie Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/86.png" group-title="Bangali",Movie Bangla 
